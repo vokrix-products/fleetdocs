@@ -67,3 +67,5 @@ Dashboard: https://fleetdocs.vokrix.co
 Vercel: fleetdocs
 Railway: fleetdocs
 Cloudflare: fleetdocs.vokrix.co
+
+Billing: price_1UKSLB2c9uGCcgMS9IJHAmG5
